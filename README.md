@@ -25,13 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="tousifbinparves" height="30" width="30" /></a>
-<a href="https://fb.com/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="tousifbinparves" height="30" width="30" /></a>
-<a href="https://instagram.com/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="tousifbinparves" height="30" width="30" /></a>
-<a href="https://kaggle.com/tousifbnn" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/kaggle.png" alt="kaggle" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+8801620962987" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="whatsapp" height="30" width="30" /></a>
-<a href="mailto:tousifbnn@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="30" width="30" /></a>
-<a href="https://bn.quora.com/profile/Tousif-Bin-Parves" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/quora.png" alt="quora" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="tousifo" height="40" width="40" /></a>
+<a href="https://fb.com/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="tousifo" height="40" width="40" /></a>
+<a href="https://instagram.com/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="tousifo" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/tousifbnn" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/kaggle.png" alt="kaggle" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=+8801620962987" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="whatsapp" height="40" width="40" /></a>
+<a href="mailto:tousifbnn@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="40" width="40" /></a>
+<a href="https://bn.quora.com/profile/Tousif-Bin-Parves" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/quora.png" alt="quora" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,6 +51,11 @@
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">
+Languages and Tools:
+<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="50" height="50" align="center" alt="gif"/>
+</h3>
 
 <h3 align="left">IDEs:</h3>
 <p align="left">
