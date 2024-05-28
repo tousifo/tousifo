@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, C++, machine learning, and robotics**
 
-- 📫 How to reach me **tousifbnn@gmail.com**
-
 - ⚡ Fun fact **I am the creator of the fully 3D printed humanoid robot NIKO**
   
 - - 🎤 I am the first TEDx licensee in my university 🅣🅔🅓🅧
