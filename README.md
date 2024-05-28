@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=tousifo&show_icons=true&locale=en" alt="tousifbinparves" />
 </p>
 
-<h3 align="left">Top Languages:</h3>
+<h3 align="right">Top Languages:</h3>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousifo&show_icons=true&locale=en&layout=compact" alt="tousifbinparves" /></p>
 
 <h3 align="left">TEDx Experience:</h3>
