@@ -10,6 +10,8 @@
 - 📫 How to reach me **tousifbnn@gmail.com**
 
 - ⚡ Fun fact **I am the creator of the fully 3D printed humanoid robot NIKO**
+  
+- - 🎤 I am the first TEDx licensee in my university 🅣🅔🅓🅧
 
 <h3 align="left">Projects:</h3>
 <p align="left">
@@ -45,9 +47,9 @@
 
 <h3 align="left">IDEs:</h3>
 <p align="left">
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> </a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/en/software" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png" alt="visual studio" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="visual studio" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/512px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/> </a>
 </p>
