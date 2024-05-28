@@ -36,13 +36,22 @@
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tousifo&show_icons=true&locale=en" alt="tousifbinparves" />
-</p>
-
-<h3 align="right">Top Languages:</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousifo&show_icons=true&locale=en&layout=compact" alt="tousifbinparves" /></p>
+<table>
+  <tr>
+    <td align="left">
+      <h3>GitHub Stats:</h3>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=tousifo&show_icons=true&locale=en" alt="tousifbinparves" />
+      </p>
+    </td>
+    <td align="right">
+      <h3>Top Languages:</h3>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousifo&show_icons=true&locale=en&layout=compact" alt="tousifbinparves" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">TEDx Experience:</h3>
 <p align="left">
