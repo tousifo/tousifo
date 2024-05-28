@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/tousifo/overlay/1713716721195/single-media-viewer/?profileId=ACoAABVIQoABL9V_luVSOrLGIDuSjI-xFd12vzs)
 
-- ⚡ Fun fact **I am the creator of the fully 3D printed humanoid robot, NIKo**
+- ⚡ Fun fact **I am the creator of the fully 3D printed humanoid robot, NIKO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
