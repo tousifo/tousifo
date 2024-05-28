@@ -25,13 +25,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tousifo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="tousifbinparves" height="30" width="40" /></a>
-<a href="https://fb.com/tousifo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" alt="tousifbinparves" height="30" width="40" /></a>
-<a href="https://instagram.com/tousifo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="tousifbinparves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="tousifbinparves" height="30" width="30" /></a>
+<a href="https://fb.com/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="tousifbinparves" height="30" width="30" /></a>
+<a href="https://instagram.com/tousifo" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="tousifbinparves" height="30" width="30" /></a>
+<a href="https://kaggle.com/tousifbnn" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/kaggle.png" alt="kaggle" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+8801620962987" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/whatsapp.png" alt="whatsapp" height="30" width="30" /></a>
+<a href="mailto:tousifbnn@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="30" width="30" /></a>
+<a href="https://bn.quora.com/profile/Tousif-Bin-Parves" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/quora.png" alt="quora" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -43,13 +47,16 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.shellscript.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="shell script" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://www.markdownguide.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">IDEs:</h3>
 <p align="left">
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/en/software" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="visual studio" width="40" height="40"/> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" alt="visual studio" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/512px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/> </a>
 </p>
