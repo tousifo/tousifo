@@ -38,13 +38,14 @@
 
 <table>
   <tr>
-    <td align="left" style="padding-right: 20px;">
+    <td align="left">
       <h3>GitHub Stats:</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api?username=tousifo&show_icons=true&locale=en" alt="tousifbinparves" />
       </p>
     </td>
-    <td align="right" style="padding-left: 20px;">
+    <td style="width: 50px;"></td> <!-- Spacer column -->
+    <td align="right">
       <h3>Top Languages:</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousifo&show_icons=true&locale=en&layout=compact" alt="tousifbinparves" />
