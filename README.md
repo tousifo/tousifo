@@ -13,7 +13,7 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-- **[Robot NIKO](https://github.com/tousifo/robot-niko)**: Fully 3D printed humanoid robot.
+<a href="https://github.com/tousifo/robot-niko" target="_blank">Robot NIKO: A 3D printed humanoid robot</a>
 </p>
 
 <h3 align="left">LinkedIn Case Study:</h3>
