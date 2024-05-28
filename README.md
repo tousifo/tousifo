@@ -12,10 +12,6 @@
 
 - 🤝 I’m looking for help with **competitive programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tousifo](https://github.com/tousifo)
-
-- 📝 I write case studies on [LinkedIn](https://www.linkedin.com/in/tousifo)
-
 - 💬 Ask me about **Python, C++, C, HTML, Java, Arduino, Machine Learning**
 
 - 📫 How to reach me **tousifbnn@gmail.com**
@@ -42,11 +38,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tousifbinparves&show_icons=true&locale=en" alt="tousifbinparves" />
+<img src="https://github-readme-stats.vercel.app/api?username=tousifo&show_icons=true&locale=en" alt="tousifbinparves" />
 </p>
 
 <h3 align="left">Top Languages:</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousifbinparves&show_icons=true&locale=en&layout=compact" alt="tousifbinparves" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousifo&show_icons=true&locale=en&layout=compact" alt="tousifbinparves" /></p>
 
 <h3 align="left">TEDx Experience:</h3>
 <p align="left">
@@ -55,7 +51,7 @@
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li>Creator of the fully 3D printed humanoid robot, robot NIKo</li>
+  <li>Creator of the fully 3D printed humanoid robot, robot NIKO</li>
   <li>Worked on various machine learning projects on Kaggle and Google Colab</li>
   <li>Engaged in competitive programming & practicing different datasets for ML</li>
 </ul>
@@ -67,7 +63,7 @@
 </p>
 <h3 align="left">Startups:</h3>
 <p align="left">
-<a href="https://roboict.com/" target="_blank">Co-founder of RoboICT, a roboedutech-based startup</a>
+<a href="https://roboict.com/" target="_blank">Co-founder of RoboICT, a robo-edutech-based startup</a>
 </p>
 
 <p align="left">💪 Love to do hardworking</p>
