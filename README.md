@@ -38,13 +38,13 @@
 
 <table>
   <tr>
-    <td align="left">
+    <td align="left" style="padding-right: 20px;">
       <h3>GitHub Stats:</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api?username=tousifo&show_icons=true&locale=en" alt="tousifbinparves" />
       </p>
     </td>
-    <td align="right">
+    <td align="right" style="padding-left: 20px;">
       <h3>Top Languages:</h3>
       <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousifo&show_icons=true&locale=en&layout=compact" alt="tousifbinparves" />
@@ -52,6 +52,7 @@
     </td>
   </tr>
 </table>
+
 
 <h3 align="left">TEDx Experience:</h3>
 <p align="left">
