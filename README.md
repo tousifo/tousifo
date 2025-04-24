@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm <strong>Tousif Bin Parves</strong></h1>
 <h3 align="center">🚀 Aspiring Machine Learning Engineer | Deep Learning &amp; MLOps Enthusiast</h3>
 
@@ -85,4 +84,3 @@
 ---
 
 <p align="center">Thanks for stopping by—feel free to connect! 😊</p>
-```
