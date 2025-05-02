@@ -19,7 +19,7 @@
 ---
 
 ### ⚡ Fun Facts
-- **I am the creator of the fully 3D printed humanoid robot NIKO**
+- **I am one of the creator of the fully 3D printed humanoid robot NIKO**
 - **I am the first TEDx licensee in my university 🅣🅔🅓🅧**
 
 ---
