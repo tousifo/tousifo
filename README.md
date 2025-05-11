@@ -14,12 +14,15 @@
   <a href="https://www.kaggle.com/tousifbnn">
     <img src="https://img.shields.io/badge/Kaggle-@tousifbnn-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://tousifo.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-tousifo.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
 ### ⚡ Fun Facts
-- **I am one of the creator of the fully 3D printed humanoid robot NIKO**
+- **I am one of the creators of the fully 3D printed humanoid robot NIKO**
 - **I am the first TEDx licensee in my university 🅣🅔🅓🅧**
 
 ---
