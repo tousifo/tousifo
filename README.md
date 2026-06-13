@@ -250,31 +250,8 @@ timeline
   <img src="https://img.shields.io/badge/Read_LinkedIn_Case_Study-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:tousifbnn@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/tousifo">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/tousifo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.kaggle.com/tousifbnn">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://tousifo.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome" />
-</a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:090979,100:020024&height=120&section=footer"/>
 
 </div>
-```
+
