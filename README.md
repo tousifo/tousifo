@@ -1,17 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:1E3A8A,100:38BDF8&height=200&section=header&text=K.%20M.%20Tousif%20Bin%20Parves&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Lecturer%20in%20Computer%20Science%20%26%20Engineering&descSize=17&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1E3A8A,75:2563EB,100:38BDF8&height=260&section=header&text=K.%20M.%20Tousif%20Bin%20Parves&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Lecturer%20%C2%B7%20Department%20of%20CSE%20%C2%B7%20Port%20City%20International%20University&descSize=17&descAlignY=55"/>
+
+<h3>Lecturer, Department of Computer Science &amp; Engineering</h3>
+<p><b>Port City International University</b></p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Quantum+Machine+Learning+for+Medical+Imaging;Humanoid+Robotics+%26+Embedded+Systems;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+MLOps;AI+Systems+for+Education" alt="Research areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Quantum+Machine+Learning+for+Medical+Imaging;Creator+of+3D-Printed+Humanoid+Robot+NIKO;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+MLOps;Building+AI+%26+Robotics+for+Real-World+Impact" alt="Research areas" />
 </a>
 
 <br/><br/>
 
-<a href="https://tousifo.github.io/"><img src="https://img.shields.io/badge/Website-tousifo.github.io-1E3A8A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:tousifbnn@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/tousifo"><img src="https://img.shields.io/badge/LinkedIn-tousifo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/tousifo"><img src="https://img.shields.io/badge/GitHub-tousifo-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tousifo"><img src="https://img.shields.io/badge/LinkedIn-Tousif_Bin_Parves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tousifbnn@gmail.com"><img src="https://img.shields.io/badge/Email-tousifbnn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.kaggle.com/tousifbnn"><img src="https://img.shields.io/badge/Kaggle-tousifbnn-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://tousifo.github.io/"><img src="https://img.shields.io/badge/Portfolio-tousifo.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tousifo&label=Profile%20Views&color=1E3A8A&style=flat-square" />
+<img src="https://img.shields.io/github/followers/tousifo?label=Followers&style=flat-square&color=2563EB" />
+<img src="https://img.shields.io/github/stars/tousifo?label=Stars&style=flat-square&color=38BDF8" />
 
 </div>
 
@@ -196,6 +206,10 @@ Co-Founder, RoboICT
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tousifo&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tousifo&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tousifo&hide_border=true&bg_color=0F172A&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=1E3A8A" />
 
 </div>
 
