@@ -2,9 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1E3A8A,75:2563EB,100:38BDF8&height=260&section=header&text=K.%20M.%20Tousif%20Bin%20Parves&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Lecturer%20%C2%B7%20Department%20of%20CSE%20%C2%B7%20Port%20City%20International%20University&descSize=17&descAlignY=55"/>
 
-<h3>Lecturer, Department of Computer Science &amp; Engineering</h3>
-<p><b>Port City International University</b></p>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Quantum+Machine+Learning+for+Medical+Imaging;Creator+of+3D-Printed+Humanoid+Robot+NIKO;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+MLOps;Building+AI+%26+Robotics+for+Real-World+Impact" alt="Research areas" />
 </a>
