@@ -139,7 +139,7 @@ timeline
 
 | | Degree | Institution | Status |
 | :---: | :--- | :--- | :--- |
-| 🎓 | **M.Sc. Engineering in ICT** | Comilla University | Coursework completed · thesis defense pending |
+| 🎓 | **M.Sc. Engineering in ICT** | Comilla University | Completed |
 | 🎓 | **B.Sc. Engineering in ICT** | Comilla University | Completed |
 
 ## ◆ Honours & Awards
