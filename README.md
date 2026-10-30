@@ -34,106 +34,75 @@
 </tr>
 </table>
 
-## Research
+<!-- update each semester -->
+## Now
 
-My research focuses on backdoor detection and defense in hybrid quantum neural networks — models that combine parameterized quantum circuits with classical deep learning and are increasingly studied for medical imaging. A backdoored model that misclassifies a medical image on cue is a quiet and serious failure, so my M.Sc. thesis, QMedShield, builds a quantum measurement-guided framework that detects, explains and repairs backdoor attacks in multiclass medical hybrid QNNs. The work sits at the intersection of quantum machine learning, AI security, and medical imaging. Supervisor: Dr. Dulal Chakraborty, Comilla University.
+- Building hybrid quantum–classical multiple-instance learning experiments for brain MRI → [ml_notebooks](https://github.com/tousifo/ml_notebooks)
+- Writing up the Academic Assistant robot system — paper under review → [academic_assistant](https://github.com/tousifo/academic_assistant)
+- Teaching CSE coursework at Port City International University — data structures, algorithms and AI/ML.
 
-The full publication list is on [ORCID](https://orcid.org/0009-0006-9309-879X), with citation records on [Google Scholar](https://scholar.google.com/citations?user=N545a-3c6VUC&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Km-Tousif-Bin-Parves).
-
-## Selected projects
-
-<table>
-<tr>
-<td width="26%" valign="top"><b><a href="https://github.com/tousifo/ml_notebooks/blob/main/pimcl_new.ipynb">Prototype-Based QNN MIL</a></b><br><sub>2025 · QUANTUM ML RESEARCH · INDEPENDENT PROJECT</sub></td>
-<td valign="top">A hybrid quantum neural network multiple-instance learning model with contrastive loss for brain MRI analysis, built in PyTorch and PennyLane. Prototype-based instance classification grades dementia on the OASIS dataset. · <a href="https://github.com/tousifo/ml_notebooks/blob/main/pimcl_new.ipynb">Notebook</a></td>
-</tr>
-<tr>
-<td width="26%" valign="top"><b><a href="https://github.com/tousifo/Robot-Niko">Robot Niko</a></b><br><sub>2022 · TEAM BUILD, CUMILLA · CO-DEVELOPER</sub></td>
-<td valign="top">A life-size 3D-printed humanoid assistant on a Raspberry Pi: 27 degrees of freedom, face recognition and wake-word speech. The body took about 11 months to print — more than 329 pieces — and the system design and build are documented in our technical report. · <a href="https://github.com/tousifo/Robot-Niko">Code</a> · <a href="https://doi.org/10.5281/zenodo.23719561">Report</a> · <a href="https://youtu.be/6iEj3AY1AlA">Video</a></td>
-</tr>
-<tr>
-<td width="26%" valign="top"><b><a href="https://github.com/tousifo/academic_assistant">AI Academic Assistant</a></b><br><sub>2023 – 2024 · SUPERVISED RESEARCH, COMILLA UNIVERSITY · ONGOING</sub></td>
-<td valign="top">A voice-interactive academic Q&amp;A system that pairs a humanoid robot with a fine-tuned LLM and a Retrieval-Augmented Generation pipeline on a Raspberry Pi, aimed at culturally relevant, personalized learning. Development is ongoing, and a paper describing the system is under review. · <a href="https://github.com/tousifo/academic_assistant">Code</a></td>
-</tr>
-<tr>
-<td width="26%" valign="top"><b><a href="https://github.com/tousifo/University-Bus-Tracking-System">University Bus Tracker</a></b><br><sub>2024 · CAMPUS IOT SYSTEM · TEAM DEVELOPER</sub></td>
-<td valign="top">Live GPS tracking for Comilla University's buses: ESP32-CAM units on board stream location and camera feeds to a Flask server with a real-time web dashboard, and occupancy is monitored with computer vision. Champion, Innovation Project Showcase 2024 (UGC and Comilla University). · <a href="https://github.com/tousifo/University-Bus-Tracking-System">Code</a></td>
-</tr>
-<tr>
-<td width="26%" valign="top"><b>AI Inventory Management</b><br><sub>2023 · COMPUTER VISION</sub></td>
-<td valign="top">Real-time inventory management with YOLOv8 object detection, reaching 82% mAP on Daraz inventory data.</td>
-</tr>
-</table>
-
-## Teaching
-
-I teach across data structures, algorithms, database systems, web technologies, AI/ML, robotics, embedded systems, IoT, and research methodology at Port City International University. My course design follows Outcome-Based Education practice: course-outcome design, constructive alignment, learning activities, assessment, evaluation and feedback.
-
-## Experience
-
-<table>
-<tr><th width="1%" align="left">When</th><th align="left">Role</th><th align="left">Where</th></tr>
-<tr><td><code>Sep 2025 – now</code></td><td>Lecturer, Department of CSE</td><td>Port City International University, Chattogram</td></tr>
-<tr><td><code>Jul 2023 – Aug 2025</code></td><td>Research Assistant, Quantum Machine Learning Lab</td><td>Department of ICT, Comilla University</td></tr>
-<tr><td><code>2024 – 2025</code></td><td>Co-Founder</td><td>RoboICT</td></tr>
-<tr><td><code>2022 – 2023</code></td><td>Robotics &amp; Programming Instructor, part-time</td><td>School of Robotics, Cumilla</td></tr>
-</table>
-
-## Education
-
-<table>
-<tr><th align="left">Degree</th><th align="left">Institution</th><th align="left">Years</th><th align="left">Thesis</th></tr>
-<tr><td><b>M.Sc. (Engineering) in ICT</b></td><td>Comilla University</td><td><code>2025 – 2026</code></td><td>QMedShield — quantum measurement-guided backdoor detection and repair in medical hybrid QNNs</td></tr>
-<tr><td><b>B.Sc. (Engineering) in ICT</b></td><td>Comilla University</td><td><code>2020 – 2025</code></td><td>—</td></tr>
-</table>
-
-## Honours & awards
-
-<table>
-<tr><th width="1%" align="left">Year</th><th align="left">Award</th></tr>
-<tr><td><code>2024</code></td><td>Champion, Innovation Project Showcase — University Bus Tracker (UGC and Comilla University)</td></tr>
-<tr><td><code>2024</code></td><td>Champion, Science Project Showcasing, 2nd CoUSC National Science Festival</td></tr>
-<tr><td><code>2023</code></td><td>Runner-up, Line Follower Robot Competition, BAIUST EEE Day '23</td></tr>
-<tr><td><code>2020 – 21</code></td><td>1st Runner-up, Hult Prize, Comilla University</td></tr>
-<tr><td><code>2020 – 21</code></td><td>South-East Asia Region Finalist, Hult Prize</td></tr>
-<tr><td><code>2020</code></td><td>Special Mention, NSTU National MUN — Delegate of Spain, International Energy Agency</td></tr>
-<tr><td><code>2019</code></td><td>MetLife Foundation Pathways Scholarship</td></tr>
-</table>
-
-## Service & training
+## Featured work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**Training**<br>
-<sub>Outcome-Based Education (OBE) curriculum training — Port City International University, 2025<br>
-Data Science, Machine Learning &amp; MLOps Bootcamp — Bongodev, 2023–24<br>
-Quantum Computing with Machine Learning — Mahdy's Research Academy, 2024–25</sub>
+<img src="assets/card-qnn-mil.svg" width="100%" alt="Card: 2025, Quantum ML research. Prototype-Based QNN MIL — hybrid quantum neural network multiple-instance learning with contrastive loss for brain MRI, prototype-based instance classification on the OASIS dataset. PyTorch, PennyLane.">
+
+<sub><b><a href="https://github.com/tousifo/ml_notebooks/blob/main/pimcl_new.ipynb">Prototype-Based QNN MIL</a></b> · <a href="https://github.com/tousifo/ml_notebooks/blob/main/pimcl_new.ipynb">Notebook</a></sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-**Service**<br>
-<sub>Co-organizer, TEDx CoU — 2023<br>
-General Secretary, CoU IT Society — 2024–25<br>
-President, Rotaract Club of Comilla Shining Star — 2024–25<br>
-Co-Founder, RoboICT — 2024–25</sub>
+<img src="assets/card-robot-niko.svg" width="100%" alt="Card: 2022, team build, 27 degrees of freedom. Robot Niko — life-size 3D-printed humanoid assistant on a Raspberry Pi with face recognition, wake-word speech and 329+ printed pieces over about 11 months of printing. Raspberry Pi, Python, OpenCV, 3D printing.">
+
+<sub><b><a href="https://github.com/tousifo/Robot-Niko">Robot Niko</a></b> · <a href="https://github.com/tousifo/Robot-Niko">Code</a> · <a href="https://doi.org/10.5281/zenodo.23719561">Report</a> · <a href="https://youtu.be/6iEj3AY1AlA">Video</a></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/card-academic-assistant.svg" width="100%" alt="Card: 2023 to 2024, ongoing, with a pulsing status dot. AI Academic Assistant — voice-interactive academic Q and A: a humanoid robot with a fine-tuned LLM and Retrieval-Augmented Generation, running on a Raspberry Pi. LangChain, RAG, DeepSeek.">
+
+<sub><b><a href="https://github.com/tousifo/academic_assistant">AI Academic Assistant</a></b> · <a href="https://github.com/tousifo/academic_assistant">Code</a></sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="assets/card-bus-tracker.svg" width="100%" alt="Card: 2024, Champion, Innovation Project Showcase. University Bus Tracker — live GPS tracking for campus buses, ESP32-CAM units streaming location and camera feeds to a Flask web dashboard with computer-vision occupancy monitoring. ESP32-CAM, Flask, OpenCV.">
+
+<sub><b><a href="https://github.com/tousifo/University-Bus-Tracking-System">University Bus Tracker</a></b> · <a href="https://github.com/tousifo/University-Bus-Tracking-System">Code</a></sub>
 
 </td>
 </tr>
 </table>
+
+## Research code
+
+| Paper | Venue · Year | Code | Status |
+|---|---|---|---|
+| [Robot Niko — System Design and Build](https://doi.org/10.5281/zenodo.23719561) | Zenodo (report) · 2026 | [tousifo/Robot-Niko](https://github.com/tousifo/Robot-Niko) | published |
+| Academic Assistant — RAG and Fine-Tuned LLMs | Manuscript · 2026 | [tousifo/academic_assistant](https://github.com/tousifo/academic_assistant) | under review |
+
+Full publication list → [tousifo.github.io (Publications)](https://tousifo.github.io/#publications) · [Google Scholar](https://scholar.google.com/citations?user=N545a-3c6VUC&hl=en)
+
+## Path
+
+<p align="center"><img src="assets/timeline.svg" width="100%" alt="Career path: 2022 Robotics and Programming Instructor, School of Robotics, Cumilla; 2023 Research Assistant, Quantum ML Lab; 2024 Co-Founder, RoboICT; 2025 Lecturer, CSE, Port City International University, current role."></p>
+
+M.Sc. & B.Sc. Engineering in ICT, Comilla University · Full CV → [tousifo.github.io](https://tousifo.github.io/assets/documents/cv/Curriculum_Vitae_KM_Tousif_Bin_Parves_Public.pdf)
 
 ## Toolkit
 
-<table>
-<tr><th width="1%" align="left">Area</th><th align="left">Tools</th></tr>
-<tr><td><b>Languages</b></td><td>Python, C++</td></tr>
-<tr><td><b>ML &amp; vision</b></td><td>PyTorch, TensorFlow, scikit-learn, OpenCV</td></tr>
-<tr><td><b>Quantum ML</b></td><td>PennyLane, Qiskit</td></tr>
-<tr><td><b>LLMs &amp; RAG</b></td><td>LangChain, fine-tuned LLMs</td></tr>
-<tr><td><b>Robotics &amp; IoT</b></td><td>ROS 2, Arduino, Raspberry Pi</td></tr>
-<tr><td><b>Deployment &amp; tools</b></td><td>Docker, Flask, Linux, Git, Google Colab</td></tr>
-</table>
+| Area | Tools |
+|---|---|
+| Languages | Python, C++ |
+| ML & vision | PyTorch, TensorFlow, scikit-learn, OpenCV |
+| Quantum ML | PennyLane, Qiskit |
+| LLMs & RAG | LangChain, fine-tuned LLMs |
+| Robotics, IoT & deployment | ROS 2, Arduino, Raspberry Pi, Docker, Flask, Linux |
 
-Open to research collaboration in quantum ML security, explainable AI and robotics — write to me at tousifbnn@gmail.com.
+## Collaborate
+
+I like hearing from students who want to get into quantum ML security or robotics, and from researchers who want to collaborate on backdoor defense in hybrid QNNs. Write to tousifbnn@gmail.com or open an issue on the repo you want to build on — [ml_notebooks](https://github.com/tousifo/ml_notebooks) and [Robot-Niko](https://github.com/tousifo/Robot-Niko) are the most active right now. I also supervise student projects at Port City International University.
