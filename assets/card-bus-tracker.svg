@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 200" width="560" height="200" role="img" aria-labelledby="t d">
+<title id="t">University Bus Tracker</title>
+<desc id="d">2024 · CHAMPION, INNOVATION SHOWCASE. University Bus Tracker. Live GPS tracking for campus buses — ESP32-CAM units streaming location and camera feeds to a Flask web dashboard with computer-vision occupancy monitoring.</desc>
+<rect x="1" y="1" width="558" height="198" rx="14" fill="#1C2325" stroke="#2C3537"/>
+<text x="30" y="42" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#33D2B4">2024 · CHAMPION, INNOVATION SHOWCASE</text>
+<text x="30" y="84" font-family="'Source Serif 4',Georgia,'Times New Roman',serif" font-size="24" font-weight="700" letter-spacing="-0.3" fill="#EDF3F2">University Bus Tracker</text>
+<text x="30" y="116" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8E9FA3">Live GPS tracking for campus buses — ESP32-CAM units</text>
+<text x="30" y="136" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8E9FA3">streaming location and camera feeds to a Flask web</text>
+<text x="30" y="156" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8E9FA3">dashboard with computer-vision occupancy monitoring.</text>
+<text x="30" y="184" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.4" fill="#33D2B4" opacity=".75">ESP32-CAM · FLASK · OPENCV · WEB DASHBOARD</text>
+</svg>

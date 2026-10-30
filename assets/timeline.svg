@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-labelledby="t d">
+<title id="t">Career path</title>
+<desc id="d">2022: Robotics &amp; Programming Instructor, School of Robotics, Cumilla; 2023: Research Assistant, Quantum ML Lab; 2024: Co-Founder, RoboICT; 2025: Lecturer, CSE, Port City International University</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1C2325"/><stop offset="1" stop-color="#161A1C"/></linearGradient>
+<linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="850" y2="0"><stop offset="0" stop-color="#2C3537"/><stop offset="1" stop-color="#33D2B4"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="248" rx="18" fill="url(#g)" stroke="#2C3537" stroke-width="1.5"/>
+<text x="44" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#33D2B4">PATH</text>
+<line x1="150" y1="112" x2="850" y2="112" stroke="url(#ln)" stroke-width="2"/>
+<circle cx="150.0" cy="112" r="6" fill="#1C2325" stroke="#33D2B4" stroke-width="2"/>
+<text x="150.0" y="90" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#8E9FA3">2022</text>
+<text x="150.0" y="150" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EDF3F2">Robotics &amp;</text>
+<text x="150.0" y="171" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EDF3F2">Programming</text>
+<text x="150.0" y="192" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EDF3F2">Instructor</text>
+<text x="150.0" y="215" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8E9FA3">School of Robotics,</text>
+<text x="150.0" y="234" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8E9FA3">Cumilla</text>
+<circle cx="383.33333333333337" cy="112" r="6" fill="#1C2325" stroke="#33D2B4" stroke-width="2"/>
+<text x="383.33333333333337" y="90" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#8E9FA3">2023</text>
+<text x="383.33333333333337" y="150" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EDF3F2">Research Assistant</text>
+<text x="383.33333333333337" y="173" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8E9FA3">Quantum ML Lab</text>
+<circle cx="616.6666666666667" cy="112" r="6" fill="#1C2325" stroke="#33D2B4" stroke-width="2"/>
+<text x="616.6666666666667" y="90" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#8E9FA3">2024</text>
+<text x="616.6666666666667" y="150" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EDF3F2">Co-Founder</text>
+<text x="616.6666666666667" y="173" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8E9FA3">RoboICT</text>
+<circle cx="850.0" cy="112" r="14" fill="#33D2B4" opacity=".18"><animate attributeName="r" values="9;16;9" dur="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".35;0;.35" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="850.0" cy="112" r="7" fill="#33D2B4"/>
+<text x="850.0" y="90" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" fill="#33D2B4">2025  ·  NOW</text>
+<text x="850.0" y="150" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#EDF3F2">Lecturer, CSE</text>
+<text x="850.0" y="173" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8E9FA3">Port City International</text>
+<text x="850.0" y="192" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#8E9FA3">University</text>
+</svg>
