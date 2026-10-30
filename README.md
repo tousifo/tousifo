@@ -38,32 +38,7 @@
 
 My research focuses on backdoor detection and defense in hybrid quantum neural networks — models that combine parameterized quantum circuits with classical deep learning and are increasingly studied for medical imaging. A backdoored model that misclassifies a medical image on cue is a quiet and serious failure, so my M.Sc. thesis, QMedShield, builds a quantum measurement-guided framework that detects, explains and repairs backdoor attacks in multiclass medical hybrid QNNs. The work sits at the intersection of quantum machine learning, AI security, and medical imaging. Supervisor: Dr. Dulal Chakraborty, Comilla University.
 
-### Publications
-
-Newest first. Journal and conference papers; my name in bold.
-
-- K. M. **Tousif Bin Parves**, Md. Mohiuddin Khan Mahin, Jahid Karim Fahim, Akash Hasnat, Shahjalal Khan, and Alimul Rajee<br>
-  **CrossEcomPack: Cross-Domain Package Localization for Low-Resource E-Commerce Logistics**<br>
-  <sub>3rd International Conference on Machine Intelligence and Emerging Technologies (MIET 2026), Noakhali Science and Technology University, Bangladesh · presented, October 2026 · first author</sub>
-- K.M.T.B. **Parves** and P.K. Shill<br>
-  **Explainable Stacked Ensemble Learning for Fake News Detection using Text and Metadata**<br>
-  <sub>Jurnal The Messenger, vol. 18, no. 1, pp. 120–136, 2026 · Web of Science indexed</sub> [![DOI](https://img.shields.io/badge/DOI--1C2325?style=flat-square)](https://doi.org/10.26623/themessenger.v18i1.16007)
-- **Occupancy-Aware Smart Stair Lighting Using Finite-State Control and Piezoelectric Energy Harvesting**<br>
-  <sub>3rd International Conference on Sustainable Development through Excellence in Higher Education (ICSDEHE 2026) · accepted for presentation · corresponding author</sub>
-- **Explainable Machine Learning for Industrial Machinery Failure Detection: A Comparative Study of Classification Performance and Sensor Feature Attribution**<br>
-  <sub>SSIM 2026, Track 7: Computational Social Sciences and Advanced Data Analytics · accepted for presentation</sub>
-- **Garbage Monitoring System with Rewarding Mechanism Using IoT Devices Like ESP32, ESP32-CAM, RFID Module**<br>
-  <sub>ICMRS 2026, Comilla University, Bangladesh · accepted · corresponding author</sub>
-- S. Saiyed, M. Hasan, R. Chowdhury, K.M.T. **Bin Parves**, E. Hariyadi, and V. Kumar<br>
-  **Harnessing Artificial Intelligence to Strengthen Green Innovation Capacity in Pursuit of Sustainable Development Goals: Evidence from Taiwan's Manufacturing Sector**<br>
-  <sub>Equilibrium: Quarterly Journal of Economics and Economic Policy, vol. 20, no. 3, pp. 877–904, 2025 · SJR Q1 (Economics), ESCI indexed</sub> [![DOI](https://img.shields.io/badge/DOI--1C2325?style=flat-square)](https://doi.org/10.24136/eq.3748)
-- A. Hasnat, M.T.M. Himel, M.R. Hasan, K.M.T.B. **Parves**, and M.S. Hasan<br>
-  **Diabetes Prediction with Explainable AI: A Stacking Ensemble Approach for Better Accuracy and Interpretability**<br>
-  <sub>2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), pp. 1–6</sub> [![DOI](https://img.shields.io/badge/DOI--1C2325?style=flat-square)](https://doi.org/10.1109/QPAIN66474.2025.11172244)
-- **Academic Assistant: A Robotic System Powered by Retrieval-Augmented Generation and Fine-Tuned LLMs for Interactive Learning**<br>
-  <sub>Manuscript under review, 2026 · supervised by Dr. Dulal Chakraborty, Comilla University</sub>
-
-[Google Scholar](https://scholar.google.com/citations?user=N545a-3c6VUC&hl=en) · [ORCID](https://orcid.org/0009-0006-9309-879X) · [ResearchGate](https://www.researchgate.net/profile/Km-Tousif-Bin-Parves)
+The full publication list is on [ORCID](https://orcid.org/0009-0006-9309-879X), with citation records on [Google Scholar](https://scholar.google.com/citations?user=N545a-3c6VUC&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Km-Tousif-Bin-Parves).
 
 ## Selected projects
 
